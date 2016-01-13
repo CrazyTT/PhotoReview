@@ -39,11 +39,11 @@ public class GiftActivity extends Activity {
         findViewById(R.id.title_right_btn).setVisibility(View.GONE);
         viewpage = (ViewPager) findViewById(R.id.recommend_viewpager);
         ArrayList<TestBean> list = new ArrayList<>();
-        list.add(new TestBean("http://e.hiphotos.baidu.com/image/pic/item/314e251f95cad1c8037ed8c97b3e6709c83d5112.jpg", "陈柳柳1", "陈柳柳1"));
+        list.add(new TestBean("http://e.hiphotos.baidu.com/image/pic/item/8c1001e93901213f6c2cdc0256e736d12e2e95d5.jpg", "陈柳柳1", "陈柳柳1"));
         list.add(new TestBean("http://g.hiphotos.baidu.com/image/pic/item/a50f4bfbfbedab64dd596a2ef336afc379311e30.jpg", "陈柳柳2", "陈柳柳2"));
-        list.add(new TestBean("http://d.hiphotos.baidu.com/image/pic/item/9f510fb30f2442a70ac9d94bd543ad4bd013021c.jpg", "陈柳柳3", "陈柳柳3"));
+        list.add(new TestBean("http://f.hiphotos.baidu.com/image/pic/item/8b13632762d0f703147406020afa513d2797c52e.jpg", "陈柳柳3", "陈柳柳3"));
         list.add(new TestBean("http://h.hiphotos.baidu.com/image/pic/item/503d269759ee3d6d4a56a32547166d224e4ade4f.jpg", "陈柳柳4", "陈柳柳4"));
-        list.add(new TestBean("http://f.hiphotos.baidu.com/image/pic/item/d53f8794a4c27d1e6fb61f2a1fd5ad6edcc4384f.jpg", "陈柳柳5", "陈柳柳5"));
+        list.add(new TestBean("http://f.hiphotos.baidu.com/image/pic/item/18d8bc3eb13533fa6f1f18c3acd3fd1f40345bb6.jpg", "陈柳柳5", "陈柳柳5"));
         list.add(new TestBean("http://e.hiphotos.baidu.com/image/pic/item/fcfaaf51f3deb48ff04f8630f41f3a292df5783d.jpg", "陈柳柳6", "陈柳柳6"));
         list.add(new TestBean("http://f.hiphotos.baidu.com/image/pic/item/730e0cf3d7ca7bcb2793e3c1ba096b63f724a877.jpg", "陈柳柳7", "陈柳柳7"));
         list.add(new TestBean("http://a.hiphotos.baidu.com/image/pic/item/0b46f21fbe096b63c60179be08338744eaf8acc7.jpg", "陈柳柳8", "陈柳柳8"));
