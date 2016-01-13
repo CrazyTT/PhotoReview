@@ -7,10 +7,7 @@
 # 我的android开发技术交流群64288703
 # 崇尚开源，崇尚分享，欢迎各路大牛前来
 
-![](https://github.com/CrazyTT/PhotoReview/blob/master/pic/234.gif?raw=true)
-
-
-
+![](https://github.com/CrazyTT/PhotoReview/blob/master/pic/4545.gif?raw=true)
 
 ### PhotoReview License
 
