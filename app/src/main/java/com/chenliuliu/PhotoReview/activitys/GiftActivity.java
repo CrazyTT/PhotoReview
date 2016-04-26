@@ -61,6 +61,7 @@ public class GiftActivity extends Activity {
         viewpage.setPageMargin(Utils.dipToPxInt(this, 20));
         viewpage.setPadding(Utils.dipToPxInt(this, 40), 0, Utils.dipToPxInt(this, 40), 0);
         viewpage.setClipToPadding(false);
+       // viewpage.setPageTransformer(true,new ZoomOutPageTransformer());
     }
 
     private void applyKitKatTranslucency() {
